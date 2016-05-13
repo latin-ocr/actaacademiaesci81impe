@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./actaacademiaesci81impe_0481.png"; bbox 0 0 1972 2668; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1703 1436 1768 2579">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1703 1436 1768 2579">
+     <span class='ocr_line' id='line_1_1' title="bbox 1703 1436 1768 2579; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 1734 1436 1768 1534; x_wconf 66' lang='lat' dir='ltr'><em>Acta</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1731 1565 1767 1691; x_wconf 72' lang='lat' dir='ltr'><em>Acad.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1713 1706 1759 1803; x_wconf 72' lang='lat' dir='ltr'><em>Imp.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1708 1820 1759 2071; x_wconf 36' lang='lat' dir='ltr'><em>‘sefela-apol.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1717 2101 1754 2200; x_wconf 64' lang='lat' dir='ltr'><em>van.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1703 2217 1752 2375; x_wconf 53' lang='lat' dir='ltr'><em>V‚‚P.L</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1711 2395 1749 2486; x_wconf 79' lang='lat' dir='ltr'><em>Tab.</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1706 2507 1740 2579; x_wconf 70' lang='lat' dir='ltr'><em>IOE&#39;,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 545 1191 1081 2668">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 545 1191 1081 2668">
+     <span class='ocr_line' id='line_1_2' title="bbox 545 1191 1081 2668; textangle 270"><span class='ocrx_word' id='word_1_9' title='bbox 545 1191 1081 2668; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 579 659 593 1330">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 579 659 593 1330">
+     <span class='ocr_line' id='line_1_3' title="bbox 579 659 593 1330; textangle 270"><span class='ocrx_word' id='word_1_10' title='bbox 579 659 593 1330; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

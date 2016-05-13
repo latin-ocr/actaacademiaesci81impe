@@ -1,0 +1,52 @@
+»501ss ) 310( &2⁶3⁴-
+
+inuenimus ‚ duas tantum determinationes complestantut..
+omnino necesse est, vt insuper vna· aequatio integralis ex
+ternis aequationibus initialibus eruatur. ’ Talem amem no-
+bis suppeditabit ista combinatio: y
+
+J,2dx-r-11, 2dy÷111.2dz‚
+
+fic enim prodibit ,
+zdxddxq-zdyddy-ff-zdzdd—z— —— 2xdx—2ydy—2zd—z-
+410² ““““ ‘v‘
+
+÷2pdx÷2qdy÷2rdz,
+vbicum fit
+
+dx² -r-dy2-1—dz2-„zds’ et·
+xdx—t-ydy-r-zdzzvdv,
+
+per integrationem impetrabimus hanc aequationem:
+“j-{34} ÷2s(pdx-l-qdy-l-rdz)
+
+vbi vsignum summationis iam constantem per integrationem
+
+ingressam inuoluit.
+
+ 
+
+ 
+
+ 
+
+ξ. 27. Modo ante autem vidimus, fi vis tangen-
+tialis, secundum directionem‘rnotus Zz sollicitans, vocetur
+Ξῖ, fore tdszpdx-l-qdy-l- rdz. Ex hac igitur vi
+tangentiali habebimus: ·
+
+{Eg-2 z Lv —l— est ds3
+vbi (ᾗ exprimit quadratum celeritatis, qua corpus Z hoc
+
+tempore mouetur, Hinc autem luco ipfins clementi ds
+introducamus potius angulum 'elementarem dd), per quem
+corpus interea circa Solem progreditur, et, quemadmodum
+iam (upra'vidimus‚ erit ds':dv²÷vvd<D²‚ quo valore
+substituto nostra aequatio fiet: ··
+
+&231²de :33 .}-·2st ds.
+
+ 
+
+{iaec
+

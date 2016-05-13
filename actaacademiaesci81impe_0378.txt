@@ -1,0 +1,43 @@
+Tab. ῙΧ. ,
+
+Fig. 3.
+
+»2213 ) ³06 ) &zaga
+
+norum plane non respicitur3 ita scilicet vt ternae coordiss
+natae x, y, z -penitus ex calculo elidantur, earumque lo-
+
+co sole. distantia O sz cum elemento curmae descriptae,
+quod vocauimus ’
+
+ds:V(dx²-÷dy² 4- dz'),
+in calculo relinquatur. obtinebitur hoc ‚ si quadrata tri·
+
+um aequationum inuicem addantur, quod quo facilins
+fieri poterit, ponamus breuitatis gratia
+
+sAdozP,‚sssd9:-.Q‚sCde:—.R‚
+et aequatio resultans erit
+(x dy -ydxr -ι- (ydz — ΜΝ -1— (zdx - κω*
+:- ιῖθε (ΡΖ -i- Q² ψ R1).
+
+ξ. 20. Quodsi nun‘c issa aequatio momatur, ob
+xx-2s-yy ÷zz ;-. vv fit
+xx--l-yyz-viJ—zz3
+xx÷zzzvv÷yy et
+yy÷zz :vv -xx3
+et hinc peruenietur ad istam aequationem:
+
+vv(dx²—i-dy²÷dz²)—-(xdx÷ydy-4-zdz)⁸
+:dez(pz÷‚Q2÷Rz)’
+vbi cum fit ,
+dx²÷dy²÷dz²zds² et xdx÷ydy÷zdzzvdv,
+aequatio inuenta hanc induet formam:
+¹1⁷vds²-—‘z‘vdv²::d6²(P²>³s-Q²-{—R').
+
+ᾧ. 21. Quo indolem huius aequationis penitius
+perspicianms, confideremus elementum a corpore tempus·
+culo d& descriptum, quod fit Zz': ds; vnde ductis ad
+sohm restis ΖΟ et zO erit OZ:v et Ozzv÷dv.
+Hinc
+
